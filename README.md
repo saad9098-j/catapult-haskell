@@ -14,3 +14,8 @@ It is a **Stack-based Haskell project** built using [GHCup](https://www.haskell.
 - stack init     
 - stack build
 - stack test (see the readme for more testing options)
+
+## GUI
+
+A separate Python GUI exists for this project, but it is not my implementation.
+If you wish to use it, please explore the README provided in the GUI repository for setup and usage instructions.
