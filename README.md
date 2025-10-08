@@ -1,7 +1,7 @@
 # Catapult (Haskell Core)
 
 This repository contains the **Haskell implementation of the core game logic** for the Catapult project.  
-It is a **Stack-based Haskell project** built using [GHCup](https://www.haskell.org/ghcup/) and Stack.
+It is a **Stack-based Haskell project** built using [GHCup](https://www.haskell.org/ghcup/) and [Stack](https://docs.haskellstack.org/en/stable/README/).
 
 ## How to Build and Run
 
